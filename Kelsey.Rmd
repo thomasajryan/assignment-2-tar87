@@ -1,0 +1,16 @@
+---
+title: "Kelsey"
+author: "Kelsey H Jensen"
+date: "9/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Unordered list of things Kelsey loves:
+- Vermont
+- Dogs
+- Skiing
+

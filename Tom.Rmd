@@ -1,0 +1,15 @@
+---
+title: "Tom"
+author: "Tom Ryan"
+date: "10/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Things about me:
+- Love my dog
+- Love watching sports
+- Love birds, all kinds

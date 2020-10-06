@@ -1,0 +1,18 @@
+---
+title: "Go Bills"
+author: "Tom Ryan, Kelsey Jensen"
+date: "10/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Links to our personal GitHub Accounts
+
+Tom's GitHub:
+<https://github.com/thomasajryan>
+
+Kelsey's GitHub:
+<https://github.com/kelsey-h-jensen>
